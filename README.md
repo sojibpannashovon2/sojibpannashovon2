@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sojibpannashovon2" alt="sojibpannashovon2" /></a> </p>
 
-- 🔭 I’m currently working on [Paradise Found - Make Your Own Hotel](https://paradise-found-430.web.app/)
+- 🔭 I’m currently working on [Anwar Technologies- As a Web Developer position]([https://paradise-found-430.web.app/](https://www.linkedin.com/company/anwar-technologies/?originalSubdomain=bd))
 
-- 🌱 I’m currently learning **TypeScript, Node.js, Next.js, PostgreSQL, Redux, DBMS**
+- 🌱 I’m currently learning **TypeScript, Mongoose, Node.js, Next.js, PostgreSQL, Redux, DBMS, Ai Intrigation**
 
 - 👯 I’m looking to collaborate on [JobSwift](https://job-swift-git-masum-developermasum.vercel.app/)
 
