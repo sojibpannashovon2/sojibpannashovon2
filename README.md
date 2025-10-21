@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [JobSwift](https://job-swift-git-masum-developermasum.vercel.app/)
 
-- 🤝 I’m looking for help with [Bd Solution It](https://github.com/sojibpannashovon2/bd-solution-it)
+- 🤝 I’m looking for help with [Anwar Group Of Industries](https://www.anwargroup.com/business-technology.html)
 
 - 👨‍💻 All of my projects are available at [https://md-arifur-rahman-portfolio25.netlify.app/](https://md-arifur-rahman-portfolio25.netlify.app/)
 
@@ -19,9 +19,9 @@
 
 - 💬 Ask me about **React, MongoDB, JavaScript, Tailwind CSS, Mongoose,**
 
-- 📫 How to reach me **mdarifur554@gmail.com**
+- 📫 How to reach me **mdarifur554@gmail.com** & **arifur.rahman@anwargroup.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/134RoHtdwkU_7w6UtZk11bHJu7x7_Nt8h/view?usp=sharing](https://drive.google.com/file/d/134RoHtdwkU_7w6UtZk11bHJu7x7_Nt8h/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/134RoHtdwkU_7w6UtZk11bHJu7x7_Nt8h/view?usp=sharing](https://drive.google.com/file/d/134RoHtdwkU_7w6UtZk11bHJu7x7_Nt8h/view?usp=sharing](https://www.linkedin.com/in/md-arifur-rahman-269764280/)
 
 - ⚡ Fun fact **I Think I Am Active, Productive and Professional**
 
